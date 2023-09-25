@@ -27,5 +27,5 @@ phases:
 artifacts:
   files:
     - '**/*'
-  base-directory: /root/ubuntu-devops-project/day-14/simple-python-app
+  base-directory: /root/ubuntu-devops-project
 
