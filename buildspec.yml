@@ -27,5 +27,4 @@ phases:
 artifacts:
   files:
     - '**/*'
-  base-directory: /root/ubuntu-devops-project
 
